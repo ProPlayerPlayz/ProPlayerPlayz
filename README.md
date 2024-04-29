@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sakthi Swaroopan</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=proplayerplayz&label=Profile%20views&color=70e6b3&style=flat" alt="proplayerplayz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=proplayerplayz&label=Profile%20views&color=00b881&style=flat" alt="proplayerplayz" /> </p>
 
 - 🔭 I’m currently working on [a ROS operated Robotic Arm](https://github.com/ProPlayerPlayz/robot_arm)
 
