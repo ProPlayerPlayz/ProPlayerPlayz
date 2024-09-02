@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=proplayerplayz&label=Profile%20views&color=00b881&style=flat" alt="proplayerplayz" /> </p>
 
-- 🔭 I’m currently working on [a ROS operated Robotic Arm](https://github.com/ProPlayerPlayz/robot_arm)
+- 🔭 I’m currently working on [a ROS powered Quadreped](https://github.com/ProPlayerPlayz/Football_ROSpug)
 
 - 🌱 I’m currently learning **ROS2-Humble and ros2_control**
 
