@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=proplayerplayz&label=Profile%20views&color=00b881&style=flat" alt="proplayerplayz" /> </p>
 
-- 🔭 I’m currently working on [a ROS powered Quadreped](https://github.com/ProPlayerPlayz/Football_ROSpug)
+- 🔭 I’m currently working on [a RL Quadraped Project](https://github.com/ProPlayerPlayz/RL_Quadraped)
 
-- 🌱 I’m currently learning **ROS2-Humble and ros2_control**
+- 🌱 I’m currently learning **ROS-Melodic and PyTorch**
 
 - 💬 Ask me about **python**
 
