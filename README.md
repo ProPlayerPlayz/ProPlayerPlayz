@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=proplayerplayz&label=Profile%20views&color=00b881&style=flat" alt="proplayerplayz" /> </p>
 
-- 🔭 I’m currently working on [a RL Quadraped Project](https://github.com/ProPlayerPlayz/RL_Quadraped)
+- 🔭 I’m currently working on **Game Server handing panel hosted on a Raspberry Pi**
 
 - 🌱 I’m currently learning **ROS-Melodic and PyTorch**
 
